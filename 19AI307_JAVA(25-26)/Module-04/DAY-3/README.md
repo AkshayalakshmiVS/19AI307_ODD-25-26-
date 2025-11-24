@@ -7,7 +7,7 @@ Implement a system where a Library contains multiple Book objects. Each Book is 
 
 To implement a library system where Books are created and managed only within a Library, demonstrating composition.
 ## ALGORITHM :
-1.Start the program and create a Library object.
+1. Start the program and create a Library object.
 2. Read the number of books to be added from the user.
 3. For each book, read the title and author.
 4. Create a Book object inside the Library and store it in a list.
@@ -97,3 +97,4 @@ class Library {
 
 ## RESULT:
 The program executed successfully and displayed all books stored in the library, demonstrating composition where books are fully managed by the library.
+
