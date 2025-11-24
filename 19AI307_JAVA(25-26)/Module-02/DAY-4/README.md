@@ -21,8 +21,8 @@ To demonstrate variable scope by declaring a variable inside a loop and showing 
  ```
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: 
-RegisterNumber:  
+Developed by: Akshaya lakshmi V S
+RegisterNumber:  212222040005
 */
 ```
 
@@ -58,3 +58,4 @@ public class LoopScopeDemo {
 ## RESULT:
 
 Thus, the program executed successfully and showed that a variable declared inside a for-loop is only accessible within the loop block, proving its limited scope.
+
